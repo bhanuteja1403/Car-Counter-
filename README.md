@@ -88,9 +88,9 @@ Unique IDs for each vehicle
 
 Total vehicle count displayed on screen
 
-Author
+Author :
 Kodurupaka Bhanu Teja
-B.Tech Mechanical Engineering | MGIT Hyderabad
+B.Tech CSE(AIML) | MGIT Hyderabad
 bunnykodurupaka@gmail.com
 
 License
